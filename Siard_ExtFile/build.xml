@@ -1,0 +1,27 @@
+<project name="siardextfile" default="make-jar">
+
+<description></description>
+
+	<property name="bin" 		location="./bin" />
+
+	<!-- 현재 시간 얻기 -->
+	<tstamp>
+		<format property="filetime" pattern="yyyyMMdd_HHmm" />
+	</tstamp>
+
+	<target name="make-jar">
+		<echo>Make siardextfile.jar</echo>
+		<jar destfile="${bin}/filedownload.jar"><fileset dir="${bin}"></fileset></jar>
+		
+		<echo>Copy siardextfile.jar to SiardCmd</echo>
+		<copy file="${bin}/filedownload.jar" 	todir="../SiardCmd/lib"/>
+		
+		<echo>Copy siardextfile.jar to SiardGui</echo>
+		<copy file="${bin}/filedownload.jar" 	todir="../SiardGui/lib"/>
+		
+		<echo>Delete siardextfile.jar</echo>
+		<delete file="${bin}/filedownload.jar"/>
+		
+	</target>
+		
+</project>
