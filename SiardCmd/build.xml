@@ -1,0 +1,25 @@
+<project name="siardcmd" default="make-jar">
+
+<description></description>
+
+	<property name="bin" 		location="./build" />
+	<property name="lib" 		location="./lib" />
+
+	<!-- 현재 시간 얻기 -->
+	<tstamp>
+		<format property="filetime" pattern="yyyyMMdd_HHmm" />
+	</tstamp>
+
+	<target name="make-jar">
+		<echo>Make siardcmd.jar</echo>
+		<jar destfile="${bin}/siardcmd.jar"><fileset dir="${bin}"></fileset></jar>
+			
+		<echo>Copy siardcmd.jar</echo>
+		<copy file="${bin}/siardcmd.jar" 	todir="../SiardGui/lib"/>
+		
+		<echo>Delete siardcmd.jar</echo>
+		<delete file="${bin}/siardcmd.jar"/>
+		
+	</target>
+		
+</project>
