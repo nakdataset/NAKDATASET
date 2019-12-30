@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/NAKDATASET/SiardApi_Source/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/NAKDATASET/SiardApi_Source/lib/antlr-runtime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAKDATASET/SiardApi_Source/lib/enterutils.jar"/>
+	<classpathentry kind="lib" path="C:/NAKDATASET/SiardApi_Source/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAKDATASET/SiardApi_Source/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="C:/NAKDATASET/SiardApi_Source/lib/jaxb-core.jar"/>
+	<classpathentry kind="lib" path="C:/NAKDATASET/SiardApi_Source/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="C:/NAKDATASET/SiardApi_Source/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/NAKDATASET/SiardApi_Source/lib/msv-core-2010.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAKDATASET/SiardApi_Source/lib/sqlparser.jar"/>
+	<classpathentry kind="lib" path="C:/NAKDATASET/SiardApi_Source/lib/stax2-api-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/NAKDATASET/SiardApi_Source/lib/woodstox-core-lgpl-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAKDATASET/SiardApi_Source/lib/woodstox-msv-rng-datatype-20020414.jar"/>
+	<classpathentry kind="lib" path="C:/NAKDATASET/SiardApi_Source/lib/xsdlib-2010.1.jar"/>
+	<classpathentry kind="lib" path="C:/NAKDATASET/SiardApi_Source/lib/zip64.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
