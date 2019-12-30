@@ -1,0 +1,166 @@
+I 2019.12.30 13:09:05.900: free memory: 116006552
+I 2019.12.30 13:09:05.905: total memory: 128974848
+I 2019.12.30 13:09:05.906: maximum memory: 1890582528
+D 2019.12.30 13:09:05.906: -- System properties:
+I 2019.12.30 13:09:05.906:   javafx.version: 8.0.221
+I 2019.12.30 13:09:05.907:   java.runtime.name: Java(TM) SE Runtime Environment
+I 2019.12.30 13:09:05.907:   sun.boot.library.path: C:\Program Files\Java\jre1.8.0_221\bin
+I 2019.12.30 13:09:05.907:   java.vm.version: 25.221-b11
+I 2019.12.30 13:09:05.907:   java.vm.vendor: Oracle Corporation
+I 2019.12.30 13:09:05.908:   java.vendor.url: http://java.oracle.com/
+I 2019.12.30 13:09:05.908:   path.separator: ;
+I 2019.12.30 13:09:05.909:   java.vm.name: Java HotSpot(TM) 64-Bit Server VM
+I 2019.12.30 13:09:05.909:   file.encoding.pkg: sun.io
+I 2019.12.30 13:09:05.909:   java.util.logging.config.file: etc/debug.properties
+I 2019.12.30 13:09:05.909:   user.script: 
+I 2019.12.30 13:09:05.910:   user.country: KR
+I 2019.12.30 13:09:05.910:   sun.java.launcher: SUN_STANDARD
+I 2019.12.30 13:09:05.910:   sun.os.patch.level: 
+I 2019.12.30 13:09:05.910:   java.vm.specification.name: Java Virtual Machine Specification
+I 2019.12.30 13:09:05.910:   user.dir: C:\dev\workspace\SiardGui
+I 2019.12.30 13:09:05.911:   java.runtime.version: 1.8.0_221-b11
+I 2019.12.30 13:09:05.911:   java.awt.graphicsenv: sun.awt.Win32GraphicsEnvironment
+I 2019.12.30 13:09:05.911:   javafx.runtime.version: 8.0.221-b09
+I 2019.12.30 13:09:05.911:   oracle.jdbc.Trace: true
+I 2019.12.30 13:09:05.911:   java.endorsed.dirs: C:\Program Files\Java\jre1.8.0_221\lib\endorsed
+I 2019.12.30 13:09:05.912:   os.arch: amd64
+I 2019.12.30 13:09:05.912:   java.io.tmpdir: C:\Users\FIRSTI~1\AppData\Local\Temp\
+I 2019.12.30 13:09:05.912:   line.separator: 
+
+I 2019.12.30 13:09:05.912:   java.vm.specification.vendor: Oracle Corporation
+I 2019.12.30 13:09:05.913:   user.variant: 
+I 2019.12.30 13:09:05.913:   os.name: Windows 10
+I 2019.12.30 13:09:05.913:   sun.jnu.encoding: MS949
+I 2019.12.30 13:09:05.914:   java.library.path: C:\Program Files\Java\jre1.8.0_221\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_221/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_221/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_221/bin/../jre/lib/amd64;C:\CUBRID\bin\;C:\app\firstinfo\product\11.2.0\client_1;C:\Program Files\Java\jdk1.8.0_221\bin;C:\dev\eclipse_photon\jad\jad.exe;C:\app\firstinfo\product\11.2.0\dbhome_1\;C:\app\firstinfo\product\11.2.0\dbhome_1\BIN;C:\Program Files (x86)\Windows Live\Shared;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\firstinfo\AppData\Local\Microsoft\WindowsApps;C:\Users\firstinfo\AppData\Local\GitHubDesktop\bin;C:\dev\eclipse_photon;;.
+I 2019.12.30 13:09:05.914:   java.specification.name: Java Platform API Specification
+I 2019.12.30 13:09:05.914:   java.class.version: 52.0
+I 2019.12.30 13:09:05.914:   sun.management.compiler: HotSpot 64-Bit Tiered Compilers
+I 2019.12.30 13:09:05.915:   os.version: 10.0
+I 2019.12.30 13:09:05.915:   user.home: C:\Users\firstinfo
+I 2019.12.30 13:09:05.915:   user.timezone: Asia/Seoul
+I 2019.12.30 13:09:05.915:   java.awt.printerjob: sun.awt.windows.WPrinterJob
+I 2019.12.30 13:09:05.916:   java.specification.version: 1.8
+I 2019.12.30 13:09:05.916:   file.encoding: UTF-8
+I 2019.12.30 13:09:05.916:   user.name: firstinfo
+I 2019.12.30 13:09:05.917:   java.class.path: C:\Program Files\Java\jre1.8.0_221\lib\resources.jar;C:\Program Files\Java\jre1.8.0_221\lib\rt.jar;C:\Program Files\Java\jre1.8.0_221\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_221\lib\jce.jar;C:\Program Files\Java\jre1.8.0_221\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_221\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\cldrdata.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\dnsns.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\jaccess.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\jfxrt.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\localedata.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\nashorn.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\sunec.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\zipfs.jar;C:\dev\workspace\SiardGui\build;C:\dev\eclipse_photon\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\dev\eclipse_photon\plugins\org.hamcrest.core_1.3.0.v20180420-1519.jar;C:\dev\workspace\SiardGui\lib\jfxrt.jar;C:\dev\workspace\SiardGui\lib\ini4j-0.5.4.jar;C:\dev\workspace\SiardGui\lib\mslinks.jar;C:\dev\workspace\SiardGui\lib\activation-1.1.1.jar;C:\dev\workspace\SiardGui\lib\mysql-connector-java-8.0.11.jar;C:\dev\workspace\SiardGui\lib\antlr-runtime-4.5.2.jar;C:\dev\workspace\SiardGui\lib\commons-lang-2.6.jar;C:\dev\workspace\SiardGui\lib\commons-logging-1.1.3.jar;C:\dev\workspace\SiardGui\lib\db2jcc4.jar;C:\dev\workspace\SiardGui\lib\enterutils.jar;C:\dev\workspace\SiardGui\lib\sqlparser.jar;C:\dev\workspace\SiardGui\lib\h2-1.3.176.jar;C:\dev\workspace\SiardGui\lib\jackcess-2.1.6a.jar;C:\dev\workspace\SiardGui\lib\jaxb-api.jar;C:\dev\workspace\SiardGui\lib\jaxb-core.jar;C:\dev\workspace\SiardGui\lib\jaxb-impl.jar;C:\dev\workspace\SiardGui\lib\jdbcbase.jar;C:\dev\workspace\SiardGui\lib\jdbcaccess.jar;C:\dev\workspace\SiardGui\lib\jdbcdb2.jar;C:\dev\workspace\SiardGui\lib\jts-1.14.jar;C:\dev\workspace\SiardGui\lib\jdbch2.jar;C:\dev\workspace\SiardGui\lib\sqljdbc41.jar;C:\dev\workspace\SiardGui\lib\jdbcmssql.jar;C:\dev\workspace\SiardGui\lib\jdbcmysql.jar;C:\dev\workspace\SiardGui\lib\ojdbc6.jar;C:\dev\workspace\SiardGui\lib\jdbcoracle.jar;C:\dev\workspace\SiardGui\lib\msv-core-2010.2.jar;C:\dev\workspace\SiardGui\lib\siardapi.jar;C:\dev\workspace\SiardGui\lib\siardcmd.jar;C:\dev\workspace\SiardGui\lib\stax2-api-3.1.1.jar;C:\dev\workspace\SiardGui\lib\woodstox-core-lgpl-4.1.2.jar;C:\dev\workspace\SiardGui\lib\woodstox-msv-rng-datatype-20020414.jar;C:\dev\workspace\SiardGui\lib\xdb6.jar;C:\dev\workspace\SiardGui\lib\xmlparserv2.jar;C:\dev\workspace\SiardGui\lib\xsdlib-2010.1.jar;C:\dev\workspace\SiardGui\lib\zip64.jar;C:\dev\workspace\SiardGui\lib\hamcrest-core-1.3.jar;C:\dev\workspace\SiardGui\lib\jdbcaccess-test.jar;C:\dev\workspace\SiardGui\lib\jdbccubrid.jar;C:\dev\workspace\SiardGui\lib\junit-4.12.jar;C:\dev\workspace\SiardGui\lib\filedownload.jar;C:\dev\workspace\SiardGui\lib\jsch-0.1.55.jar;C:\dev\workspace\SiardGui\lib\cubird.jar;C:\dev\workspace\SiardGui\lib\siardgui.jar;C:\dev\workspace\SiardGui\lib\siardextfile.jar
+I 2019.12.30 13:09:05.917:   java.vm.specification.version: 1.8
+I 2019.12.30 13:09:05.917:   sun.arch.data.model: 64
+I 2019.12.30 13:09:05.918:   java.home: C:\Program Files\Java\jre1.8.0_221
+I 2019.12.30 13:09:05.918:   sun.java.command: ch.admin.bar.siard2.gui.SiardGui
+I 2019.12.30 13:09:05.918:   java.specification.vendor: Oracle Corporation
+I 2019.12.30 13:09:05.919:   user.language: ko
+I 2019.12.30 13:09:05.919:   awt.toolkit: sun.awt.windows.WToolkit
+I 2019.12.30 13:09:05.919:   java.vm.info: mixed mode
+I 2019.12.30 13:09:05.919:   java.version: 1.8.0_221
+I 2019.12.30 13:09:05.920:   java.ext.dirs: C:\Program Files\Java\jre1.8.0_221\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+I 2019.12.30 13:09:05.920:   sun.boot.class.path: C:\Program Files\Java\jre1.8.0_221\lib\resources.jar;C:\Program Files\Java\jre1.8.0_221\lib\rt.jar;C:\Program Files\Java\jre1.8.0_221\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_221\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_221\lib\jce.jar;C:\Program Files\Java\jre1.8.0_221\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_221\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_221\classes
+I 2019.12.30 13:09:05.920:   java.vendor: Oracle Corporation
+I 2019.12.30 13:09:05.920:   file.separator: \
+I 2019.12.30 13:09:05.921:   java.vendor.url.bug: http://bugreport.sun.com/bugreport/
+I 2019.12.30 13:09:05.921:   sun.cpu.endian: little
+I 2019.12.30 13:09:05.921:   sun.io.unicode.encoding: UnicodeLittle
+I 2019.12.30 13:09:05.921:   sun.desktop: windows
+I 2019.12.30 13:09:05.922:   sun.cpu.isalist: amd64
+I 2019.12.30 13:09:05.922: JavaFX runtime version: 8.0.221-b09
+D 2019.12.30 13:09:05.940: >> ch.admin.bar.siard2.gui.SiardGui.init()
+D 2019.12.30 13:09:05.960: << ch.admin.bar.siard2.gui.SiardGui.init
+D 2019.12.30 13:09:06.017: >> ch.admin.bar.siard2.gui.SiardGui.start(javafx.stage.Stage@ec2a11d)
+D 2019.12.30 13:09:06.018:   >> ch.admin.bar.siard2.gui.SiardGui.loadProperties()
+D 2019.12.30 13:09:06.097:   << ch.admin.bar.siard2.gui.SiardGui.loadProperties({database.scheme=oracle, database.option=0, mru.file.entry9=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\d.siard, mru.file.entry8=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\e.siard, mru.file.entry7=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\g.siard, stage.minimized=false, mru.file.entry6=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\ARCHIVE_READ_20191010_05_oracleToOracle.siard, mru.file.entry5=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\국가기록원_분류기준표시스템_20191101.siard, schema.mapping0=ARCHIVE	ARCHIVE_UP, mru.file.entry4=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\ARCHIVE_SIARD_DOWLOAD_20191113.siard, mru.file.entry3=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\b.siard, mru.file.entry2=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\a.siard, database.host=127.0.0.1, mru.file.entry1=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\file5_g.siard, mru.file.entry0=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\a14.siard, database.name=SIARD, file.chooser.native=true, stage.width=1024.0, stage.height=768.0, stage.maximized=false, mru.dbdownentry6=jdbc:oracle:thin:@192.168.0.2:1521:ARCHIVE	ARCHIVE, mru.dbdownentry5=jdbc:oracle:thin:@localhost:1521:SIARD	SIARD_TMP, mru.dbdownentry4=jdbc:oracle:thin:@192.168.0.2:1521:ARCHIVE	ARCHIVE_READ, mru.dbdownentry3=jdbc:cubrid:localhost:30000:siard_up:DBA::?charset=utf8	dba, mru.dbdownentry2=jdbc:oracle:thin:@localhost:1521:SIARD	SIARD, mru.dbdownentry1=jdbc:oracle:thin:@192.168.0.2:1521:ARCHIVE	ARCHIVE_READ, mru.dbdownentry0=jdbc:oracle:thin:@127.0.0.1:1521:SIARD	SIARD_TMP, installed.version=2.1.112, database.user=SIARD_TMP, mru.dbupentry3=jdbc:oracle:thin:@localhost:1521:SIARD	SIARD_TMP, ui.language=ko, stage.y=120.0, mru.dbupentry2=jdbc:cubrid:localhost:30000:siard_up:DBA::?charset=utf8	dba, stage.x=111.0, mru.dbupentry1=jdbc:oracle:thin:@localhost:1521:SIARD	SIARD, mru.dbupentry0=jdbc:cubrid:localhost:30000:ARCHIVE_UP:DBA::?charset=utf8	DBA, installed.path=C:\Users\firstinfo\AppData\Local\siard_suite_2.1})
+D 2019.12.30 13:09:06.103:   >> ch.admin.bar.siard2.gui.SiardGui.checkInstall()
+D 2019.12.30 13:09:06.104:   << ch.admin.bar.siard2.gui.SiardGui.checkInstall(false)
+D 2019.12.30 13:09:06.768: << ch.admin.bar.siard2.gui.SiardGui.start
+D 2019.12.30 13:09:07.774: >> ch.admin.bar.siard2.gui.SiardGui$1.handle(javafx.concurrent.WorkerStateEvent[source=ch.enterag.utils.fx.tasks.SleeperTask@47595dd1])
+D 2019.12.30 13:09:08.729: << ch.admin.bar.siard2.gui.SiardGui$1.handle
+D 2019.12.30 13:09:10.746: >> ch.admin.bar.siard2.gui.SiardGui.canClose()
+D 2019.12.30 13:09:10.746:   -- InstalledVersion: 2.1.112
+D 2019.12.30 13:09:10.747:   -- InstalledPath: C:\Users\firstinfo\AppData\Local\siard_suite_2.1
+D 2019.12.30 13:09:10.748:   >> ch.admin.bar.siard2.gui.SiardGui.storeProperties()
+D 2019.12.30 13:09:10.752:     -- Properties for version 2.1.112 are being stored to "C:\Users\firstinfo\.java\siard_suite_2.1.properties"
+D 2019.12.30 13:09:10.759:   << ch.admin.bar.siard2.gui.SiardGui.storeProperties
+D 2019.12.30 13:09:10.760: << ch.admin.bar.siard2.gui.SiardGui.canClose(true)
+D 2019.12.30 13:09:10.818: >> ch.admin.bar.siard2.gui.SiardGui.stop()
+D 2019.12.30 13:09:10.819: << ch.admin.bar.siard2.gui.SiardGui.stop
+I 2019.12.30 13:14:24.592: free memory: 116006696
+I 2019.12.30 13:14:24.596: total memory: 128974848
+I 2019.12.30 13:14:24.596: maximum memory: 1890582528
+D 2019.12.30 13:14:24.596: -- System properties:
+I 2019.12.30 13:14:24.596:   javafx.version: 8.0.221
+I 2019.12.30 13:14:24.597:   java.runtime.name: Java(TM) SE Runtime Environment
+I 2019.12.30 13:14:24.597:   sun.boot.library.path: C:\Program Files\Java\jre1.8.0_221\bin
+I 2019.12.30 13:14:24.597:   java.vm.version: 25.221-b11
+I 2019.12.30 13:14:24.597:   java.vm.vendor: Oracle Corporation
+I 2019.12.30 13:14:24.598:   java.vendor.url: http://java.oracle.com/
+I 2019.12.30 13:14:24.598:   path.separator: ;
+I 2019.12.30 13:14:24.598:   java.vm.name: Java HotSpot(TM) 64-Bit Server VM
+I 2019.12.30 13:14:24.599:   file.encoding.pkg: sun.io
+I 2019.12.30 13:14:24.599:   java.util.logging.config.file: etc/debug.properties
+I 2019.12.30 13:14:24.599:   user.script: 
+I 2019.12.30 13:14:24.599:   user.country: KR
+I 2019.12.30 13:14:24.600:   sun.java.launcher: SUN_STANDARD
+I 2019.12.30 13:14:24.600:   sun.os.patch.level: 
+I 2019.12.30 13:14:24.600:   java.vm.specification.name: Java Virtual Machine Specification
+I 2019.12.30 13:14:24.600:   user.dir: C:\dev\workspace\SiardGui
+I 2019.12.30 13:14:24.600:   java.runtime.version: 1.8.0_221-b11
+I 2019.12.30 13:14:24.601:   java.awt.graphicsenv: sun.awt.Win32GraphicsEnvironment
+I 2019.12.30 13:14:24.601:   javafx.runtime.version: 8.0.221-b09
+I 2019.12.30 13:14:24.601:   oracle.jdbc.Trace: true
+I 2019.12.30 13:14:24.601:   java.endorsed.dirs: C:\Program Files\Java\jre1.8.0_221\lib\endorsed
+I 2019.12.30 13:14:24.602:   os.arch: amd64
+I 2019.12.30 13:14:24.602:   java.io.tmpdir: C:\Users\FIRSTI~1\AppData\Local\Temp\
+I 2019.12.30 13:14:24.602:   line.separator: 
+
+I 2019.12.30 13:14:24.602:   java.vm.specification.vendor: Oracle Corporation
+I 2019.12.30 13:14:24.603:   user.variant: 
+I 2019.12.30 13:14:24.603:   os.name: Windows 10
+I 2019.12.30 13:14:24.603:   sun.jnu.encoding: MS949
+I 2019.12.30 13:14:24.603:   java.library.path: C:\Program Files\Java\jre1.8.0_221\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_221/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_221/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_221/bin/../jre/lib/amd64;C:\CUBRID\bin\;C:\app\firstinfo\product\11.2.0\client_1;C:\Program Files\Java\jdk1.8.0_221\bin;C:\dev\eclipse_photon\jad\jad.exe;C:\app\firstinfo\product\11.2.0\dbhome_1\;C:\app\firstinfo\product\11.2.0\dbhome_1\BIN;C:\Program Files (x86)\Windows Live\Shared;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\firstinfo\AppData\Local\Microsoft\WindowsApps;C:\Users\firstinfo\AppData\Local\GitHubDesktop\bin;C:\dev\eclipse_photon;;.
+I 2019.12.30 13:14:24.604:   java.specification.name: Java Platform API Specification
+I 2019.12.30 13:14:24.604:   java.class.version: 52.0
+I 2019.12.30 13:14:24.604:   sun.management.compiler: HotSpot 64-Bit Tiered Compilers
+I 2019.12.30 13:14:24.604:   os.version: 10.0
+I 2019.12.30 13:14:24.604:   user.home: C:\Users\firstinfo
+I 2019.12.30 13:14:24.605:   user.timezone: Asia/Seoul
+I 2019.12.30 13:14:24.605:   java.awt.printerjob: sun.awt.windows.WPrinterJob
+I 2019.12.30 13:14:24.605:   java.specification.version: 1.8
+I 2019.12.30 13:14:24.605:   file.encoding: UTF-8
+I 2019.12.30 13:14:24.606:   user.name: firstinfo
+I 2019.12.30 13:14:24.606:   java.class.path: C:\Program Files\Java\jre1.8.0_221\lib\resources.jar;C:\Program Files\Java\jre1.8.0_221\lib\rt.jar;C:\Program Files\Java\jre1.8.0_221\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_221\lib\jce.jar;C:\Program Files\Java\jre1.8.0_221\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_221\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\cldrdata.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\dnsns.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\jaccess.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\jfxrt.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\localedata.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\nashorn.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\sunec.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jre1.8.0_221\lib\ext\zipfs.jar;C:\dev\workspace\SiardGui\build;C:\dev\eclipse_photon\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\dev\eclipse_photon\plugins\org.hamcrest.core_1.3.0.v20180420-1519.jar;C:\dev\workspace\SiardGui\lib\jfxrt.jar;C:\dev\workspace\SiardGui\lib\ini4j-0.5.4.jar;C:\dev\workspace\SiardGui\lib\mslinks.jar;C:\dev\workspace\SiardGui\lib\activation-1.1.1.jar;C:\dev\workspace\SiardGui\lib\mysql-connector-java-8.0.11.jar;C:\dev\workspace\SiardGui\lib\antlr-runtime-4.5.2.jar;C:\dev\workspace\SiardGui\lib\commons-lang-2.6.jar;C:\dev\workspace\SiardGui\lib\commons-logging-1.1.3.jar;C:\dev\workspace\SiardGui\lib\db2jcc4.jar;C:\dev\workspace\SiardGui\lib\enterutils.jar;C:\dev\workspace\SiardGui\lib\sqlparser.jar;C:\dev\workspace\SiardGui\lib\h2-1.3.176.jar;C:\dev\workspace\SiardGui\lib\jackcess-2.1.6a.jar;C:\dev\workspace\SiardGui\lib\jaxb-api.jar;C:\dev\workspace\SiardGui\lib\jaxb-core.jar;C:\dev\workspace\SiardGui\lib\jaxb-impl.jar;C:\dev\workspace\SiardGui\lib\jdbcbase.jar;C:\dev\workspace\SiardGui\lib\jdbcaccess.jar;C:\dev\workspace\SiardGui\lib\jdbcdb2.jar;C:\dev\workspace\SiardGui\lib\jts-1.14.jar;C:\dev\workspace\SiardGui\lib\jdbch2.jar;C:\dev\workspace\SiardGui\lib\sqljdbc41.jar;C:\dev\workspace\SiardGui\lib\jdbcmssql.jar;C:\dev\workspace\SiardGui\lib\jdbcmysql.jar;C:\dev\workspace\SiardGui\lib\ojdbc6.jar;C:\dev\workspace\SiardGui\lib\jdbcoracle.jar;C:\dev\workspace\SiardGui\lib\msv-core-2010.2.jar;C:\dev\workspace\SiardGui\lib\siardapi.jar;C:\dev\workspace\SiardGui\lib\siardcmd.jar;C:\dev\workspace\SiardGui\lib\stax2-api-3.1.1.jar;C:\dev\workspace\SiardGui\lib\woodstox-core-lgpl-4.1.2.jar;C:\dev\workspace\SiardGui\lib\woodstox-msv-rng-datatype-20020414.jar;C:\dev\workspace\SiardGui\lib\xdb6.jar;C:\dev\workspace\SiardGui\lib\xmlparserv2.jar;C:\dev\workspace\SiardGui\lib\xsdlib-2010.1.jar;C:\dev\workspace\SiardGui\lib\zip64.jar;C:\dev\workspace\SiardGui\lib\hamcrest-core-1.3.jar;C:\dev\workspace\SiardGui\lib\jdbcaccess-test.jar;C:\dev\workspace\SiardGui\lib\jdbccubrid.jar;C:\dev\workspace\SiardGui\lib\junit-4.12.jar;C:\dev\workspace\SiardGui\lib\filedownload.jar;C:\dev\workspace\SiardGui\lib\jsch-0.1.55.jar;C:\dev\workspace\SiardGui\lib\cubird.jar;C:\dev\workspace\SiardGui\lib\siardgui.jar;C:\dev\workspace\SiardGui\lib\siardextfile.jar
+I 2019.12.30 13:14:24.606:   java.vm.specification.version: 1.8
+I 2019.12.30 13:14:24.606:   sun.arch.data.model: 64
+I 2019.12.30 13:14:24.607:   java.home: C:\Program Files\Java\jre1.8.0_221
+I 2019.12.30 13:14:24.607:   sun.java.command: ch.admin.bar.siard2.gui.SiardGui
+I 2019.12.30 13:14:24.607:   java.specification.vendor: Oracle Corporation
+I 2019.12.30 13:14:24.607:   user.language: ko
+I 2019.12.30 13:14:24.608:   awt.toolkit: sun.awt.windows.WToolkit
+I 2019.12.30 13:14:24.608:   java.vm.info: mixed mode
+I 2019.12.30 13:14:24.608:   java.version: 1.8.0_221
+I 2019.12.30 13:14:24.608:   java.ext.dirs: C:\Program Files\Java\jre1.8.0_221\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+I 2019.12.30 13:14:24.608:   sun.boot.class.path: C:\Program Files\Java\jre1.8.0_221\lib\resources.jar;C:\Program Files\Java\jre1.8.0_221\lib\rt.jar;C:\Program Files\Java\jre1.8.0_221\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_221\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_221\lib\jce.jar;C:\Program Files\Java\jre1.8.0_221\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_221\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_221\classes
+I 2019.12.30 13:14:24.609:   java.vendor: Oracle Corporation
+I 2019.12.30 13:14:24.609:   file.separator: \
+I 2019.12.30 13:14:24.609:   java.vendor.url.bug: http://bugreport.sun.com/bugreport/
+I 2019.12.30 13:14:24.609:   sun.cpu.endian: little
+I 2019.12.30 13:14:24.609:   sun.io.unicode.encoding: UnicodeLittle
+I 2019.12.30 13:14:24.610:   sun.desktop: windows
+I 2019.12.30 13:14:24.610:   sun.cpu.isalist: amd64
+I 2019.12.30 13:14:24.611: JavaFX runtime version: 8.0.221-b09
+D 2019.12.30 13:14:24.622: >> ch.admin.bar.siard2.gui.SiardGui.init()
+D 2019.12.30 13:14:24.624: << ch.admin.bar.siard2.gui.SiardGui.init
+D 2019.12.30 13:14:24.653: >> ch.admin.bar.siard2.gui.SiardGui.start(javafx.stage.Stage@25c14719)
+D 2019.12.30 13:14:24.653:   >> ch.admin.bar.siard2.gui.SiardGui.loadProperties()
+D 2019.12.30 13:14:24.701:   << ch.admin.bar.siard2.gui.SiardGui.loadProperties({database.scheme=oracle, database.option=0, mru.file.entry9=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\d.siard, mru.file.entry8=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\e.siard, mru.file.entry7=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\g.siard, stage.minimized=false, mru.file.entry6=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\ARCHIVE_READ_20191010_05_oracleToOracle.siard, mru.file.entry5=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\국가기록원_분류기준표시스템_20191101.siard, schema.mapping0=ARCHIVE	ARCHIVE_UP, mru.file.entry4=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\ARCHIVE_SIARD_DOWLOAD_20191113.siard, mru.file.entry3=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\b.siard, mru.file.entry2=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\a.siard, database.host=127.0.0.1, mru.file.entry1=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\file5_g.siard, mru.file.entry0=C:\Users\firstinfo\AppData\Roaming\SIARD Suite 2.1\a14.siard, database.name=SIARD, file.chooser.native=true, stage.width=1024.0, stage.height=734.4000244140625, stage.maximized=false, mru.dbdownentry6=jdbc:oracle:thin:@192.168.0.2:1521:ARCHIVE	ARCHIVE, mru.dbdownentry5=jdbc:oracle:thin:@localhost:1521:SIARD	SIARD_TMP, mru.dbdownentry4=jdbc:oracle:thin:@192.168.0.2:1521:ARCHIVE	ARCHIVE_READ, mru.dbdownentry3=jdbc:cubrid:localhost:30000:siard_up:DBA::?charset=utf8	dba, mru.dbdownentry2=jdbc:oracle:thin:@localhost:1521:SIARD	SIARD, mru.dbdownentry1=jdbc:oracle:thin:@192.168.0.2:1521:ARCHIVE	ARCHIVE_READ, mru.dbdownentry0=jdbc:oracle:thin:@127.0.0.1:1521:SIARD	SIARD_TMP, installed.version=2.1.112, database.user=SIARD_TMP, mru.dbupentry3=jdbc:oracle:thin:@localhost:1521:SIARD	SIARD_TMP, ui.language=ko, stage.y=120.0, mru.dbupentry2=jdbc:cubrid:localhost:30000:siard_up:DBA::?charset=utf8	dba, stage.x=111.19999694824219, mru.dbupentry1=jdbc:oracle:thin:@localhost:1521:SIARD	SIARD, mru.dbupentry0=jdbc:cubrid:localhost:30000:ARCHIVE_UP:DBA::?charset=utf8	DBA, installed.path=C:\Users\firstinfo\AppData\Local\siard_suite_2.1})
+D 2019.12.30 13:14:24.706:   >> ch.admin.bar.siard2.gui.SiardGui.checkInstall()
+D 2019.12.30 13:14:24.707:   << ch.admin.bar.siard2.gui.SiardGui.checkInstall(false)
+D 2019.12.30 13:14:25.268: << ch.admin.bar.siard2.gui.SiardGui.start
+D 2019.12.30 13:14:26.278: >> ch.admin.bar.siard2.gui.SiardGui$1.handle(javafx.concurrent.WorkerStateEvent[source=ch.enterag.utils.fx.tasks.SleeperTask@7485d08c])
+D 2019.12.30 13:14:27.068: << ch.admin.bar.siard2.gui.SiardGui$1.handle
+D 2019.12.30 13:14:30.209: >> ch.admin.bar.siard2.gui.SiardGui.canClose()
+D 2019.12.30 13:14:30.210:   -- InstalledVersion: 2.1.112
+D 2019.12.30 13:14:30.210:   -- InstalledPath: C:\Users\firstinfo\AppData\Local\siard_suite_2.1
+D 2019.12.30 13:14:30.212:   >> ch.admin.bar.siard2.gui.SiardGui.storeProperties()
+D 2019.12.30 13:14:30.217:     -- Properties for version 2.1.112 are being stored to "C:\Users\firstinfo\.java\siard_suite_2.1.properties"
+D 2019.12.30 13:14:30.224:   << ch.admin.bar.siard2.gui.SiardGui.storeProperties
+D 2019.12.30 13:14:30.224: << ch.admin.bar.siard2.gui.SiardGui.canClose(true)
+D 2019.12.30 13:14:30.254: >> ch.admin.bar.siard2.gui.SiardGui.stop()
+D 2019.12.30 13:14:30.255: << ch.admin.bar.siard2.gui.SiardGui.stop

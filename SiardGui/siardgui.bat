@@ -1,0 +1,1 @@
+java -Doracle.jdbc.Trace=true -Djava.util.logging.config.file=etc/logging.properties -jar lib/siardgui.jar
