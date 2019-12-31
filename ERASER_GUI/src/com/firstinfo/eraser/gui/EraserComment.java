@@ -307,7 +307,8 @@ public class EraserComment extends JDialog implements ActionListener
 
 				JLabel	label_message	= new JLabel(warn_message);
 
-				label_message.setFont(new Font("맑은고딕", Font.PLAIN, 14));
+				label_message.setFont(new Font("맑은고딕", Font.PLAIN, 18));
+				label_message.setForeground(Color.RED);
 
 				int result = JOptionPane.showConfirmDialog(this, label_message, "경고", JOptionPane.YES_NO_OPTION);
 
@@ -319,7 +320,8 @@ public class EraserComment extends JDialog implements ActionListener
 
 					// label_message.getFont().deriveFont(36);
 
-					label_message2.setFont(new Font("맑은고딕", Font.PLAIN, 14));
+					label_message2.setFont(new Font("맑은고딕", Font.PLAIN, 18));
+					label_message2.setForeground(Color.RED);
 
 					int result2 = JOptionPane.showConfirmDialog(this, label_message2, "경고", JOptionPane.YES_NO_OPTION);
 
